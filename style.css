@@ -1,0 +1,13 @@
+#min-brance{
+           text-align: center;
+           background-color: burlywood;
+           padding: 30px;
+           margin: 20px 20px;
+           text-decoration:solid;
+           text-overflow:inherit;
+           border-radius: 5px;
+}
+.header{
+    color: darkred;
+    background-color: chartreuse;
+}
